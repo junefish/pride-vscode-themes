@@ -113,3 +113,7 @@ Light mode:
 Dark mode:
 
 <img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719679/polysexual-dark-demo_e3seja.png" width="800"/>
+
+## Lesbian:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lesbian_pride_flag_2018.svg/1280px-Lesbian_pride_flag_2018.svg.png" width="100">
