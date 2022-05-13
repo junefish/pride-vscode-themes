@@ -105,6 +105,11 @@
         "label": "Agender (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/agender-color-theme.json"
+      },
+      {
+        "label": "Lesbian (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lesbian-color-theme.json"
       }
     ]
   }
